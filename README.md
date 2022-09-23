@@ -1,7 +1,7 @@
 # Apriori - Association Rules
 C# Implementation of Apriori Algorithm Using Association Rules
 
-![Demo Image](https://github.com/mhdbouk/Apriori/blob/master/demo.png)
+![Demo Image](https://github.com/mhdbouk/Apriori/blob/main/demo.png)
 
 ## Demo
 1. Download the demo.txt transaction file.
